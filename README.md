@@ -22,13 +22,13 @@
 
 
 ---
-The main purpose of the project [review-project](https://sheylapozo.github.io/review-project/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
+The main purpose of the project [ProjectReview](https://sheylapozo.github.io/ProjectReview/) was for me to develop some hands on work as a code reviewer, using my previous knokledge working with Html, CSS, and linters, which also serves as practice in documenting my work in a professional way, with the learning objectives of using the best practices in HTML code, semantic HTML tags, CSS selectors in a correct way, CSS box model, and to perform a code review for myself on a past project for experience.
 -------
 ---
 
 ## 💖 Live Demo
 
-[review-project](https://sheylapozo.github.io/review-project/) 
+[ProjectReview](https://sheylapozo.github.io/ProjectReview/) 
 
 ---
 
